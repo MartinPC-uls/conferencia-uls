@@ -18,7 +18,7 @@ export default function Hero() {
 
                 <div className='flex flex-col items-center'>
                     <h3 className="text-white text-center text-2xl md:text-4xl lg:text-5xl font-bold uppercase mb-4">
-                        seminario
+                        seminarioXD
                     </h3>
 
                     <h1 className="text-white text-center text-4xl md:text-8xl lg:text-9xl font-bold uppercase mb-6">
