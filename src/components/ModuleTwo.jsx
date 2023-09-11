@@ -33,7 +33,7 @@ export default function ModuleOne() {
                         <h5 className='text-xl mb-5 text-center'>Estudiantes Pedagogía en Biología y Cs. Naturales</h5>
 
                         <p className="text-justify text-xl max-w-xl lg:max-w-sm">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, sunt vitae dignissimos mollitia at error illum quae, repellendus nostrum sint officia doloribus, sapiente consectetur recusandae cumque libero inventore possimus maiores?
+                            La histología, que es la rama de la biología que estudia los tejidos biológicos y su estructura microscópica, generalmente se realiza en dos dimensiones (2D). La histología convencional implica el corte de tejidos en secciones extremadamente delgadas y la observación de esas secciones en un microscopio. Nuestro proyecto y presentación abordará como el generar los cortes histológicos en modelos 3D, mejorará la calidad de aprendizaje, realizando una contextualización con la forma y distribución que presentan los tejidos, de esta forma aumentamos la oferta representacional del contenido, contenido que beneficiara a estudiantes de las carreras del área de la salud y pedagogías.
                         </p>
                     </div>
                 </div>
