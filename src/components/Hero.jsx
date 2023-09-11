@@ -32,7 +32,7 @@ export default function Hero() {
                         Salón Pentágono, Campus Andrés Bello, Universidad de La Serena
                     </p>
                     <Link target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfAM8MebqqQaPOKYqpB0QpKhq6zaIO8p7UpgOrTgXwflfArzw/viewform" className="bg-[#1f7bfe] hover:bg-blue-700 text-xl text-white font-bold py-2 px-4 rounded-full mt-5" >
-                        Inscribirse
+                        Inscribirse (Estudiantes ULS)
                     </Link>
                 </div>
             </div>
